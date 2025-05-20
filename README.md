@@ -1,16 +1,47 @@
-## OII >:)
+![banner](https://github.com/evandro0981/evandro0981/blob/main/banner-home.gif)
 
-<!--
-**Evandro0981/Evandro0981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ## GitHub Stats
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evandro0981&theme=dracula&background=000000)](https://git.io/streak-stats)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evandro0981&langs_count=8&theme=dracula&bg_color=000000&layout=compact&card_width=350)
 
-Here are some ideas to get you started:
+  ## Technologies and Tools
+  
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td align="center" width="100">C</td>
+    <td align="center" width="100">HTML</td>
+    <td align="center" width="100">CSS</td>
+    <td align="center" width="100">Python</td>
+  </tr>
+</table>
+
+</div>
